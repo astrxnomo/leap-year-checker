@@ -1,4 +1,4 @@
-# Leap Year Checker
+# Codédex Checkpoint - Leap Year Checker
 It takes 365.25 days for earth to orbit the sun - a solar year. 🌎
 
 In modern 365-day calendars, we rounded the number down. To make up for the missing quarter day, we add one day to our calendar approximately every four years.
